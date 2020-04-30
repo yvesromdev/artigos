@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yvesr\\source\\repos\\Api.Web.Carros\\Api.Web.Carros\\Api.Web.Carros.csproj": {}
+    "F:\\Projetos\\Yves\\artigos\\AspNetCoreApi-InMemory-YT\\Api.Web.Carros\\Api.Web.Carros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yvesr\\source\\repos\\Api.Web.Carros\\Api.Web.Carros\\Api.Web.Carros.csproj": {
+    "F:\\Projetos\\Yves\\artigos\\AspNetCoreApi-InMemory-YT\\Api.Web.Carros\\Api.Web.Carros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yvesr\\source\\repos\\Api.Web.Carros\\Api.Web.Carros\\Api.Web.Carros.csproj",
+        "projectUniqueName": "F:\\Projetos\\Yves\\artigos\\AspNetCoreApi-InMemory-YT\\Api.Web.Carros\\Api.Web.Carros.csproj",
         "projectName": "Api.Web.Carros",
-        "projectPath": "C:\\Users\\yvesr\\source\\repos\\Api.Web.Carros\\Api.Web.Carros\\Api.Web.Carros.csproj",
+        "projectPath": "F:\\Projetos\\Yves\\artigos\\AspNetCoreApi-InMemory-YT\\Api.Web.Carros\\Api.Web.Carros.csproj",
         "packagesPath": "C:\\Users\\yvesr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yvesr\\source\\repos\\Api.Web.Carros\\Api.Web.Carros\\obj\\",
+        "outputPath": "F:\\Projetos\\Yves\\artigos\\AspNetCoreApi-InMemory-YT\\Api.Web.Carros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Microsoft\\Xamarin\\NuGet\\"
